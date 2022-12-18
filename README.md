@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalcinho
-- 👀 I’m interested in Python and Java programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python or Java project's.
+- 👀 I’m interested in Java and Python programming.
+- 🌱 I’m currently working on Java project.
+- 💞️ I’m looking to collaborate on Java or Python project's.
 - 📫 How to reach me: kalcinho@protonmail.com
 
 <!---
